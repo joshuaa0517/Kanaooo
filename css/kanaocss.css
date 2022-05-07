@@ -19,5 +19,49 @@ header h1{
 header img{
 	border-radius: 250px;
 	width: 300px;
+	border: 20px solid whitesmoke;
+}
 
+main{
+	padding: 20px 0;
+	margin: 0px auto;
+	max-width: 640px;
+
+}
+
+a{
+	color: #30004A;
+}
+
+a:hover{
+	background-color: #30004A;
+	color: white
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	opacity: 50%;
+	margin-top: 0px;
+}
+
+main h1{
+	color: #330A82;
+}
+
+footer{
+	background-color: #7316B8;
+	color: whitesmoke;
+	text-align: center;
+	padding: 20px 0;
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	background-color: white;
+	color: #330A82;
 }
