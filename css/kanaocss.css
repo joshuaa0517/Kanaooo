@@ -2,7 +2,8 @@ body{
 	margin: 0;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-weight: bold;
-	
+	line-height: 30px;
+	font-size: 20px;
 }
 
 header{
@@ -64,4 +65,5 @@ footer a{
 footer a:hover{
 	background-color: white;
 	color: #330A82;
+	
 }
