@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: bold;
+	
+}
+
+header{
+	background-color: #30004A;
+	text-align: center;
+	padding: 75px 0;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 250px;
+	width: 300px;
+
+}
